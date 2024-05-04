@@ -6,7 +6,7 @@
 
 
 //////////////
-// INCLUDES //
+// MY CLASS INCLUDES //
 //////////////
 #include <windows.h>
 
