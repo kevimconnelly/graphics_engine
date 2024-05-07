@@ -8,7 +8,7 @@
 //////////////
 // MY CLASS INCLUDES //
 //////////////
-#include <"d3dclass.h>
+#include "d3dclass.h"
 
 
 /////////////
