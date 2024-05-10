@@ -31,6 +31,10 @@
     <ClInclude Include="inputclass.h" />
     <ClInclude Include="systemclass.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="color.ps" />
+    <None Include="color.vs" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
