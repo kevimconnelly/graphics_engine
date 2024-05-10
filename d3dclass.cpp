@@ -2,6 +2,8 @@
 // Filename: d3dclass.cpp
 ////////////////////////////////////////////////////////////////////////////////
 #include "d3dclass.h"
+#include <iostream>
+#include <fstream>
 
 D3DClass::D3DClass()
 {
